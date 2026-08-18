@@ -8,9 +8,9 @@ These resources help security leaders, engineering teams, vCISOs, MSPs, and comp
 
 | Framework | Best for | Resource |
 | --- | --- | --- |
-| SOC 2 | SaaS and service organizations preparing evidence for a SOC 2 examination | [SOC 2 Penetration Testing Checklist](./soc-2/) |
-| FDA premarket cybersecurity | Medical-device teams preparing 510(k), De Novo, or PMA cybersecurity documentation | [FDA Premarket Penetration Testing Checklist](./fda-510k/) |
-| CMMC | Defense contractors and advisers preparing an authorized assessment of CUI and FCI environments | [CMMC Penetration Testing Checklist](./cmmc/) |
+| SOC 2 | SaaS and service organizations preparing evidence for a SOC 2 examination | [SOC 2 Penetration Testing Checklist](./soc-2/README.md) |
+| FDA premarket cybersecurity | Medical-device teams preparing 510(k), De Novo, or PMA cybersecurity documentation | [FDA Premarket Penetration Testing Checklist](./fda-510k/README.md) |
+| CMMC | Defense contractors and advisers preparing an authorized assessment of CUI and FCI environments | [CMMC Penetration Testing Checklist](./cmmc/README.md) |
 
 ## How to use these resources
 
@@ -38,4 +38,3 @@ For a scoped assessment or sample report, visit [stealthnet.ai](https://stealthn
 - These resources are maintained as public educational materials.
 - Every penetration test must have explicit written authorization from the system owner.
 - Each framework folder includes its source links and a revision date.
-
