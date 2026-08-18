@@ -2,7 +2,7 @@
 
 Prepare an evidence-ready penetration-testing program that can support SOC 2 scoping, risk management, and remediation tracking.
 
-**[Download the SOC 2 Penetration Testing Checklist](./SOC-2-Penetration-Testing-Checklist.pdf)**
+**[Download the SOC 2 Penetration Testing Checklist](./SOC%202%20Penetration%20Testing%20Checklist%20%E2%80%94%20StealthNet%20AI.pdf)**
 
 ## Who should use it
 
@@ -30,4 +30,3 @@ SOC 2 reports are examinations of relevant controls against the AICPA Trust Serv
 - [StealthNet AI](https://stealthnet.ai/)
 
 Last reviewed: August 18, 2026
-
